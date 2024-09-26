@@ -1,3 +1,2 @@
-Hola Equipo
-Git hub
+English
 
